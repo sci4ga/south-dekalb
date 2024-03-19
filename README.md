@@ -28,28 +28,26 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The goal of our project is to gather data on ozone, PM 2.5, E. coli, lead, and fecal coli levels in the South River Watershed and South Dekalb to create at least three data visualizations and a story surrounding long-term trends in water and air pollution and their health impacts.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Specifically, our research questions are:
+
+1. How do the EPA’s identified unregulated contaminants in drinking water on S. Dekalb’s water sources between 2013 and 2015, 2018 and 2020, and 2021-2023, considering variations in contamination types and their distribution in South Dekalb compare to other counties near Dekalb and what are some possible health outcomes related to high exposure of these contaminants? 
+
+2. How have the levels of key water pollutant parameters (Fluoride, Nitrate, Chlorine, Trihalomethanes, Haloacetic Acids, Copper, Lead, Turbidity, Total Organic Carbon, and Total Coliform) in Dekalb County changed over recent years (2018-2022)?
+
+3. How have levels of key air pollutants, such as PM2.5 and Ozone changed over the past 5 years?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ 
 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,31 +56,20 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+Will include instructions on setting up the project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Shiny for R
   ```sh
-  npm install npm@latest -g
+  install shiny
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+1. 
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,9 +79,8 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+- Screenshot of interactive map
+- Screenshot or link to data story
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,12 +89,21 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+For each research question, to create a cohesive data story, we will:
+- [ ] Identify and analyze the relevant dataset
+    - [ ] Create a subset of data to contain only Georgia or Dekalb
+- [ ] Create a data visualization (interactive or otherwise)
+    - [ ] Contaminant Type Selection
+    - [ ] Time series or county comparison
+- [ ] Relay health impacts
+    - [ ] Include a summary of the health impacts of high exposure to the contaminant type
+    - [ ] Outline actions community members can take
+     
+Project Plan: https://docs.google.com/document/d/1Fk13lB-NPpDvnWYr1P8-melwuqHeQFxDNx5mgyd4cW8/edit?usp=sharing
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+Datastory Draft: https://docs.google.com/document/d/1amH2_ZUWezUnnM1W37NR9Ed7yuLsFNm9FxuZsxaY3WQ/edit?usp=sharing
+
+See the [open issues](https://github.com/sci4ga/south-dekalb/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,6 +111,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- CONTRIBUTING -->
 ## Contributing
+
+*What we COULD say:*
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -135,7 +132,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the _____ License. See  for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,9 +141,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Project Authors: Camilla Yoon, Minh-Thy Tyler, and Liane Muir
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/sci4ga/south-dekalb](https://github.com/sci4ga/south-dekalb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
