@@ -35,7 +35,7 @@ The goal of our project is to gather data on ozone, PM 2.5, E. coli, lead, and f
 
 Specifically, our research questions are:
 
-1. How do the EPA’s identified unregulated contaminants in drinking water on S. Dekalb’s water sources between 2013 and 2015, 2018 and 2020, and 2021-2023, considering variations in contamination types and their distribution in South Dekalb compare to other counties near Dekalb and what are some possible health outcomes related to high exposure of these contaminants? 
+1. How do the EPA’s identified unregulated contaminants in drinking water on S. Dekalb’s water sources between 2018 and 2020, considering variations in contamination types and their distribution in South Dekalb compare to other counties near Dekalb and what are some possible health outcomes related to high exposure of these contaminants? 
 
 2. How have the levels of key water pollutant parameters (Fluoride, Nitrate, Chlorine, Trihalomethanes, Haloacetic Acids, Copper, Lead, Turbidity, Total Organic Carbon, and Total Coliform) in Dekalb County changed over recent years (2018-2022)?
 
