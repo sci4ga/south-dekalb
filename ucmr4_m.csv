@@ -1,0 +1,1029 @@
+PWSID,PWSName,Size,FacilityID,FacilityName,FacilityWaterType,SamplePointID,SamplePointName,SamplePointType,AssociatedFacilityID,AssociatedSamplePointID,CollectionDate,SampleID,Contaminant,MRL,Units,MethodID,AnalyticalResultsSign,AnalyticalResultValue,SampleEventCode,MonitoringRequirement,Region,State,UCMR1SampleType,Contaminant Classification
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,quinoline,0.02,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,o-toluidine,0.007,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,tribufos,0.07,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,profenofos,0.3,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,germanium,0.3,�g/L,EPA 200.8,<,,SEA1,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,manganese,0.4,�g/L,EPA 200.8,=,0.858,SEA1,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,7/16/19,1135075,1-butanol,2.0,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,tribufos,0.07,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,1-butanol,2.0,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,profenofos,0.3,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,o-toluidine,0.007,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,quinoline,0.02,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,manganese,0.4,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1156807,germanium,0.3,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,2/12/20,1173740,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,1-butanol,2.0,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,germanium,0.3,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,manganese,0.4,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,tribufos,0.07,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,profenofos,0.3,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,1/22/20,1170618,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,2/12/20,1173740,quinoline,0.02,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,2/12/20,1173740,o-toluidine,0.007,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,quinoline,0.02,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,o-toluidine,0.007,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,1-butanol,2.0,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,germanium,0.3,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,manganese,0.4,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,tribufos,0.07,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,profenofos,0.3,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,4/13/20,1182953,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,8/6/19,1139232,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,8/6/19,1139232,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,8/6/19,1139232,total microcystin,0.3,�g/L,EPA 546,<,,SEC1,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,8/20/19,1142242,total microcystin,0.3,�g/L,EPA 546,<,,SEC2,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,8/20/19,1142242,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,8/20/19,1142242,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,9/4/19,1145344,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,9/4/19,1145344,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,9/4/19,1145344,total microcystin,0.3,�g/L,EPA 546,<,,SEC3,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,9/17/19,1149028,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,9/17/19,1149028,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,9/17/19,1149028,total microcystin,0.3,�g/L,EPA 546,<,,SEC4,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/8/19,1153804,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/8/19,1153804,total microcystin,0.3,�g/L,EPA 546,<,,SEC5,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/8/19,1153804,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1157240,total microcystin,0.3,�g/L,EPA 546,<,,SEC6,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1157240,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,10/22/19,1157240,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,11/5/19,1159673,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,11/5/19,1159673,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,11/5/19,1159673,total microcystin,0.3,�g/L,EPA 546,<,,SEC7,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,11/18/19,1161460,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,11/18/19,1161460,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,574,William Hooper Filter Plant,SW,301,Finished Water Tap,EP,,,11/18/19,1161460,total microcystin,0.3,�g/L,EPA 546,<,,SEC8,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,7/16/19,1135081,HAA6Br,,�g/L,EPA 552.3,=,7.913,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,7/16/19,1135081,HAA5,,�g/L,EPA 552.3,=,26.566,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,7/16/19,1135081,HAA9,,�g/L,EPA 552.3,=,33.671,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,10/22/19,1156812,HAA6Br,,�g/L,EPA 552.3,=,9.158,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,10/22/19,1156812,HAA5,,�g/L,EPA 552.3,=,40.0405,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,10/22/19,1156812,HAA9,,�g/L,EPA 552.3,=,48.7495,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,1/22/20,1170604,HAA5,,�g/L,EPA 552.3,=,37.912,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,1/22/20,1170604,HAA6Br,,�g/L,EPA 552.3,=,9.345,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,1/22/20,1170604,HAA9,,�g/L,EPA 552.3,=,46.317,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,4/13/20,1182959,HAA5,,�g/L,EPA 552.3,=,34.8375,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,4/13/20,1182959,HAA6Br,,�g/L,EPA 552.3,=,9.698,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,501,14645 Wildwood Road,DS,,,4/13/20,1182959,HAA9,,�g/L,EPA 552.3,=,43.0875,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,7/16/19,1135082,HAA5,,�g/L,EPA 552.3,=,20.352,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,7/16/19,1135082,HAA6Br,,�g/L,EPA 552.3,=,3.203,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,7/16/19,1135082,HAA9,,�g/L,EPA 552.3,=,23.555,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,10/22/19,1156813,HAA5,,�g/L,EPA 552.3,=,45.643,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,10/22/19,1156813,HAA6Br,,�g/L,EPA 552.3,=,20.786,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,10/22/19,1156813,HAA9,,�g/L,EPA 552.3,=,63.62,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,1/22/20,1170605,HAA5,,�g/L,EPA 552.3,=,38.197,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,1/22/20,1170605,HAA6Br,,�g/L,EPA 552.3,=,11.669,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,1/22/20,1170605,HAA9,,�g/L,EPA 552.3,=,48.616,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,4/13/20,1182960,HAA9,,�g/L,EPA 552.3,=,34.209,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,4/13/20,1182960,HAA6Br,,�g/L,EPA 552.3,=,11.483,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,502,4320 Old Dixie Road,DS,,,4/13/20,1182960,HAA5,,�g/L,EPA 552.3,=,24.428,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,7/16/19,1135083,HAA9,,�g/L,EPA 552.3,=,39.519,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,7/16/19,1135083,HAA5,,�g/L,EPA 552.3,=,31.791,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,7/16/19,1135083,HAA6Br,,�g/L,EPA 552.3,=,8.782,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,10/22/19,1156814,HAA6Br,,�g/L,EPA 552.3,=,11.081,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,10/22/19,1156814,HAA5,,�g/L,EPA 552.3,=,45.537,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,10/22/19,1156814,HAA9,,�g/L,EPA 552.3,=,55.541,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,1/22/20,1170606,HAA5,,�g/L,EPA 552.3,=,33.281,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,1/22/20,1170606,HAA6Br,,�g/L,EPA 552.3,=,8.812,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,1/22/20,1170606,HAA9,,�g/L,EPA 552.3,=,41.002,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,4/13/20,1182961,HAA5,,�g/L,EPA 552.3,=,28.4225,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,4/13/20,1182961,HAA6Br,,�g/L,EPA 552.3,=,9.333,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,503,215 Talmadge Road,DS,,,4/13/20,1182961,HAA9,,�g/L,EPA 552.3,=,36.2285,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,7/16/19,1135084,HAA9,,�g/L,EPA 552.3,=,73.943,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,7/16/19,1135084,HAA6Br,,�g/L,EPA 552.3,=,14.417,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,7/16/19,1135084,HAA5,,�g/L,EPA 552.3,=,61.354,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,10/22/19,1156815,HAA5,,�g/L,EPA 552.3,=,38.6975,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,10/22/19,1156815,HAA6Br,,�g/L,EPA 552.3,=,17.43,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,10/22/19,1156815,HAA9,,�g/L,EPA 552.3,=,54.0375,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,1/22/20,1170607,HAA5,,�g/L,EPA 552.3,=,39.905,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,1/22/20,1170607,HAA9,,�g/L,EPA 552.3,=,50.434,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,1/22/20,1170607,HAA6Br,,�g/L,EPA 552.3,=,11.692,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,4/13/20,1182962,HAA9,,�g/L,EPA 552.3,=,35.727,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,4/13/20,1182962,HAA6Br,,�g/L,EPA 552.3,=,11.945,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,504,644 Lake Mirror Road,DS,,,4/13/20,1182962,HAA5,,�g/L,EPA 552.3,=,25.631,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,7/16/19,1135085,HAA9,,�g/L,EPA 552.3,=,59.196,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,7/16/19,1135085,HAA6Br,,�g/L,EPA 552.3,=,11.163,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,7/16/19,1135085,HAA5,,�g/L,EPA 552.3,=,49.471,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,10/22/19,1156816,HAA9,,�g/L,EPA 552.3,=,57.509,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,10/22/19,1156816,HAA6Br,,�g/L,EPA 552.3,=,11.309,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,10/22/19,1156816,HAA5,,�g/L,EPA 552.3,=,47.358,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,1/22/20,1170610,HAA6Br,,�g/L,EPA 552.3,=,8.363,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,1/22/20,1170610,HAA9,,�g/L,EPA 552.3,=,35.875,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,1/22/20,1170610,HAA5,,�g/L,EPA 552.3,=,28.636,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,4/13/20,1182963,HAA6Br,,�g/L,EPA 552.3,=,9.314,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,4/13/20,1182963,HAA5,,�g/L,EPA 552.3,=,27.9945,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,505,2601 Steele Drive,DS,,,4/13/20,1182963,HAA9,,�g/L,EPA 552.3,=,35.6395,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,7/16/19,1135086,HAA5,,�g/L,EPA 552.3,=,54.784,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,7/16/19,1135086,HAA6Br,,�g/L,EPA 552.3,=,13.146,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,7/16/19,1135086,HAA9,,�g/L,EPA 552.3,=,66.347,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,10/22/19,1156817,HAA9,,�g/L,EPA 552.3,=,59.938,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,10/22/19,1156817,HAA5,,�g/L,EPA 552.3,=,45.429,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,10/22/19,1156817,HAA6Br,,�g/L,EPA 552.3,=,16.669,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,1/22/20,1170611,HAA6Br,,�g/L,EPA 552.3,=,10.646,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,1/22/20,1170611,HAA5,,�g/L,EPA 552.3,=,34.8855,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,1/22/20,1170611,HAA9,,�g/L,EPA 552.3,=,44.3915,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,4/13/20,1182964,HAA5,,�g/L,EPA 552.3,=,25.664,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,4/13/20,1182964,HAA9,,�g/L,EPA 552.3,=,34.46,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,506,5647 Riverdale Road,DS,,,4/13/20,1182964,HAA6Br,,�g/L,EPA 552.3,=,10.358,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,7/16/19,1135087,HAA9,,�g/L,EPA 552.3,=,42.853,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,7/16/19,1135087,HAA5,,�g/L,EPA 552.3,=,34.482,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,7/16/19,1135087,HAA6Br,,�g/L,EPA 552.3,=,9.214,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,10/22/19,1156818,HAA5,,�g/L,EPA 552.3,=,32.734,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,10/22/19,1156818,HAA6Br,,�g/L,EPA 552.3,=,17.065,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,10/22/19,1156818,HAA9,,�g/L,EPA 552.3,=,47.98,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,1/22/20,1170612,HAA9,,�g/L,EPA 552.3,=,50.8355,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,1/22/20,1170612,HAA5,,�g/L,EPA 552.3,=,40.0885,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,1/22/20,1170612,HAA6Br,,�g/L,EPA 552.3,=,11.882,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,4/13/20,1182965,HAA5,,�g/L,EPA 552.3,=,25.853,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,4/13/20,1182965,HAA6Br,,�g/L,EPA 552.3,=,11.346,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,507,Gilgal Way,DS,,,4/13/20,1182965,HAA9,,�g/L,EPA 552.3,=,35.595,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,7/16/19,1135088,HAA5,,�g/L,EPA 552.3,=,62.4,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,7/16/19,1135088,HAA6Br,,�g/L,EPA 552.3,=,15.022,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,7/16/19,1135088,HAA9,,�g/L,EPA 552.3,=,75.401,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,10/22/19,1156819,HAA9,,�g/L,EPA 552.3,=,64.114,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,10/22/19,1156819,HAA5,,�g/L,EPA 552.3,=,47.172,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,10/22/19,1156819,HAA6Br,,�g/L,EPA 552.3,=,19.675,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,1/22/20,1170613,HAA5,,�g/L,EPA 552.3,=,38.0975,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,1/22/20,1170613,HAA6Br,,�g/L,EPA 552.3,=,12.142,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,1/22/20,1170613,HAA9,,�g/L,EPA 552.3,=,48.8505,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,4/13/20,1182966,HAA9,,�g/L,EPA 552.3,=,35.568,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,4/13/20,1182966,HAA6Br,,�g/L,EPA 552.3,=,11.74,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,508,5192 Southridge Parkway,DS,,,4/13/20,1182966,HAA5,,�g/L,EPA 552.3,=,25.532,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,7/16/19,1135089,HAA6Br,,�g/L,EPA 552.3,=,10.049,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,7/16/19,1135089,HAA9,,�g/L,EPA 552.3,=,55.814,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,7/16/19,1135089,HAA5,,�g/L,EPA 552.3,=,46.877,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,10/28/19,1158043,HAA5,,�g/L,EPA 552.3,=,37.2325,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,10/28/19,1158043,HAA6Br,,�g/L,EPA 552.3,=,12.702,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,10/28/19,1158043,HAA9,,�g/L,EPA 552.3,=,48.3125,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,1/22/20,1170614,HAA5,,�g/L,EPA 552.3,=,33.039,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,1/22/20,1170614,HAA6Br,,�g/L,EPA 552.3,=,10.608,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,1/22/20,1170614,HAA9,,�g/L,EPA 552.3,=,42.427,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,4/13/20,1182967,HAA5,,�g/L,EPA 552.3,=,24.813,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,4/13/20,1182967,HAA9,,�g/L,EPA 552.3,=,31.863,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,509,266 Main Street,DS,,,4/13/20,1182967,HAA6Br,,�g/L,EPA 552.3,=,8.516,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,7/16/19,1135090,HAA9,,�g/L,EPA 552.3,=,60.315,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,7/16/19,1135090,HAA6Br,,�g/L,EPA 552.3,=,10.731,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,7/16/19,1135090,HAA5,,�g/L,EPA 552.3,=,50.855,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,10/22/19,1156821,HAA5,,�g/L,EPA 552.3,=,46.033,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,10/22/19,1156821,HAA6Br,,�g/L,EPA 552.3,=,10.875,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,10/22/19,1156821,HAA9,,�g/L,EPA 552.3,=,55.824,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,1/22/20,1170615,HAA9,,�g/L,EPA 552.3,=,38.207,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,1/22/20,1170615,HAA5,,�g/L,EPA 552.3,=,30.808,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,1/22/20,1170615,HAA6Br,,�g/L,EPA 552.3,=,8.432,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,4/13/20,1182968,HAA9,,�g/L,EPA 552.3,=,33.812,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,4/13/20,1182968,HAA5,,�g/L,EPA 552.3,=,26.545,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,510,6381 Highway 42,DS,,,4/13/20,1182968,HAA6Br,,�g/L,EPA 552.3,=,8.93,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,7/16/19,1135091,HAA6Br,,�g/L,EPA 552.3,=,15.257,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,7/16/19,1135091,HAA9,,�g/L,EPA 552.3,=,74.526,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,7/16/19,1135091,HAA5,,�g/L,EPA 552.3,=,61.221,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,10/28/19,1158044,HAA6Br,,�g/L,EPA 552.3,=,14.259,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,10/28/19,1158044,HAA9,,�g/L,EPA 552.3,=,52.299,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,10/28/19,1158044,HAA5,,�g/L,EPA 552.3,=,40.077,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,1/22/20,1170616,HAA9,,�g/L,EPA 552.3,=,48.107,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,1/22/20,1170616,HAA6Br,,�g/L,EPA 552.3,=,11.718,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,1/22/20,1170616,HAA5,,�g/L,EPA 552.3,=,37.612,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,4/13/20,1182969,HAA5,,�g/L,EPA 552.3,=,24.133,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,4/13/20,1182969,HAA6Br,,�g/L,EPA 552.3,=,11.228,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,511,11 Upper Riverdale Road,DS,,,4/13/20,1182969,HAA9,,�g/L,EPA 552.3,=,33.63,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,7/16/19,1135092,HAA5,,�g/L,EPA 552.3,=,51.481,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,7/16/19,1135092,HAA6Br,,�g/L,EPA 552.3,=,12.112,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,7/16/19,1135092,HAA9,,�g/L,EPA 552.3,=,62.082,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,10/22/19,1156823,HAA6Br,,�g/L,EPA 552.3,=,18.681,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,10/22/19,1156823,HAA5,,�g/L,EPA 552.3,=,47.713,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,10/22/19,1156823,HAA9,,�g/L,EPA 552.3,=,63.95,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,1/22/20,1170617,HAA9,,�g/L,EPA 552.3,=,47.142,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,1/22/20,1170617,HAA6Br,,�g/L,EPA 552.3,=,11.09,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,1/22/20,1170617,HAA5,,�g/L,EPA 552.3,=,37.198,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,4/13/20,1182970,HAA6Br,,�g/L,EPA 552.3,=,11.225,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,4/13/20,1182970,HAA9,,�g/L,EPA 552.3,=,34.958,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11112,Distribution System,SW,512,239 Highway 42,DS,,,4/13/20,1182970,HAA5,,�g/L,EPA 552.3,=,25.506,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,quinoline,0.02,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,o-toluidine,0.007,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,tribufos,0.07,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,profenofos,0.3,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,manganese,0.4,�g/L,EPA 200.8,=,0.845,SEA1,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,germanium,0.3,�g/L,EPA 200.8,<,,SEA1,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,7/16/19,1135076,1-butanol,2.0,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,1-butanol,2.0,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,quinoline,0.02,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,o-toluidine,0.007,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,tribufos,0.07,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,profenofos,0.3,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,manganese,0.4,�g/L,EPA 200.8,=,0.436,SEA2,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156811,germanium,0.3,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,o-toluidine,0.007,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,quinoline,0.02,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,1-butanol,2.0,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,tribufos,0.07,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,profenofos,0.3,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,germanium,0.3,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,1/22/20,1170600,manganese,0.4,�g/L,EPA 200.8,=,0.71,SEA3,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,o-toluidine,0.007,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,1-butanol,2.0,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,quinoline,0.02,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,manganese,0.4,�g/L,EPA 200.8,=,1.331,SEA4,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,germanium,0.3,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,profenofos,0.3,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,tribufos,0.07,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,4/13/20,1182958,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,8/6/19,1139231,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,8/6/19,1139231,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,8/6/19,1139231,total microcystin,0.3,�g/L,EPA 546,<,,SEC1,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,8/20/19,1142225,total microcystin,0.3,�g/L,EPA 546,<,,SEC2,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,8/20/19,1142225,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,8/20/19,1142225,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,9/4/19,1145350,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,9/4/19,1145350,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,9/4/19,1145350,total microcystin,0.3,�g/L,EPA 546,<,,SEC3,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,9/17/19,1149030,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,9/17/19,1149030,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,9/17/19,1149030,total microcystin,0.3,�g/L,EPA 546,<,,SEC4,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/8/19,1153806,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/8/19,1153806,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/8/19,1153806,total microcystin,0.3,�g/L,EPA 546,<,,SEC5,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156806,total microcystin,0.3,�g/L,EPA 546,<,,SEC6,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156806,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,10/22/19,1156806,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,11/5/19,1159675,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,11/5/19,1159675,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,11/5/19,1159675,total microcystin,0.3,�g/L,EPA 546,<,,SEC7,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,11/18/19,1161461,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,11/18/19,1161461,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,11113,Atlanta,SW,305,Atlanta Connector,EP,,,11/18/19,1161461,total microcystin,0.3,�g/L,EPA 546,<,,SEC8,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,quinoline,0.02,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,o-toluidine,0.007,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,profenofos,0.3,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,tribufos,0.07,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,germanium,0.3,�g/L,EPA 200.8,<,,SEA1,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,manganese,0.4,�g/L,EPA 200.8,=,17.687,SEA1,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,1-butanol,2.0,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,7/16/19,1135077,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,1-butanol,2.0,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,profenofos,0.3,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,tribufos,0.07,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,o-toluidine,0.007,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,quinoline,0.02,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,manganese,0.4,�g/L,EPA 200.8,=,47.278,SEA2,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156824,germanium,0.3,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,quinoline,0.02,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,o-toluidine,0.007,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,1-butanol,2.0,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,tribufos,0.07,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,profenofos,0.3,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,germanium,0.3,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,manganese,0.4,�g/L,EPA 200.8,=,10.706,SEA3,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,1/22/20,1170619,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,1-butanol,2.0,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,o-toluidine,0.007,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,quinoline,0.02,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,germanium,0.3,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,manganese,0.4,�g/L,EPA 200.8,=,6.425,SEA4,AM,4,GA,,Metal
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,profenofos,0.3,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,4/13/20,1182954,tribufos,0.07,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,8/6/19,1139230,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,8/6/19,1139230,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,8/6/19,1139230,total microcystin,0.3,�g/L,EPA 546,<,,SEC1,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,8/20/19,1142232,total microcystin,0.3,�g/L,EPA 546,<,,SEC2,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,8/20/19,1142232,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,8/20/19,1142232,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,9/4/19,1145349,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,9/4/19,1145349,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,9/4/19,1145349,total microcystin,0.3,�g/L,EPA 546,<,,SEC3,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,9/17/19,1149029,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,9/17/19,1149029,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,9/17/19,1149029,total microcystin,0.3,�g/L,EPA 546,<,,SEC4,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/8/19,1153805,total microcystin,0.3,�g/L,EPA 546,<,,SEC5,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/8/19,1153805,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/8/19,1153805,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156805,total microcystin,0.3,�g/L,EPA 546,<,,SEC6,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156805,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,10/22/19,1156805,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,11/5/19,1159674,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,11/5/19,1159674,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,11/5/19,1159674,total microcystin,0.3,�g/L,EPA 546,<,,SEC7,AM,4,GA,,
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,11/18/19,1161459,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,11/18/19,1161459,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0630000,Clayton County Water Authority,L,16130,Noah`s Ark Tank Farm,SW,302,Sample Tap @ Tanks,EP,,,11/18/19,1161459,total microcystin,0.3,�g/L,EPA 546,<,,SEC8,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,1-butanol,2.0,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,o-toluidine,0.007,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,quinoline,0.02,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,tribufos,0.07,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,profenofos,0.3,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,germanium,0.3,�g/L,EPA 200.8,<,,SEA1,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/13/19,1140666,manganese,0.4,�g/L,EPA 200.8,=,2.9,SEA1,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,o-toluidine,0.007,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,quinoline,0.02,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,1-butanol,2.0,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,tribufos,0.07,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,profenofos,0.3,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,manganese,0.4,�g/L,EPA 200.8,=,58.282,SEA2,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/12/19,1160598,germanium,0.3,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,germanium,0.3,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,manganese,0.4,�g/L,EPA 200.8,=,1.827,SEA3,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,tribufos,0.07,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,profenofos,0.3,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,o-toluidine,0.007,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,quinoline,0.02,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/11/20,1173304,1-butanol,2.0,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,germanium,0.3,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,manganese,0.4,�g/L,EPA 200.8,=,0.947,SEA4,AM,4,GA,,Metal
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,tribufos,0.07,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,profenofos,0.3,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,1-butanol,2.0,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,quinoline,0.02,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/12/20,1187933,o-toluidine,0.007,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,1139224,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,1139224,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,1139224,total microcystin,0.3,�g/L,EPA 546,<,,SEC1,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/20/19,1142247,total microcystin,0.3,�g/L,EPA 546,<,,SEC2,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/20/19,1142247,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/20/19,1142247,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,9/3/19,1144994,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,9/3/19,1144994,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,9/3/19,1144994,total microcystin,0.3,�g/L,EPA 546,<,,SEC3,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,9/17/19,1149025,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,9/17/19,1149025,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,9/17/19,1149025,total microcystin,0.3,�g/L,EPA 546,<,,SEC4,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,10/1/19,1152750,total microcystin,0.3,�g/L,EPA 546,<,,SEC5,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,10/1/19,1152750,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,10/1/19,1152750,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,10/15/19,1155099,total microcystin,0.3,�g/L,EPA 546,<,,SEC6,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,10/15/19,1155099,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,10/15/19,1155099,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/5/19,1159669,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/5/19,1159669,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/5/19,1159669,total microcystin,0.3,�g/L,EPA 546,<,,SEC7,AM,4,GA,,
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/19/19,1161745,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/19/19,1161745,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA0890001,DeKalb County,L,798,DeKalb Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/19/19,1161745,total microcystin,0.3,�g/L,EPA 546,<,,SEC8,AM,4,GA,,
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,8/14/19,1141206,HAA5,,�g/L,EPA 552.3,=,7.371,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,8/14/19,1141206,HAA6Br,,�g/L,EPA 552.3,=,2.581,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,8/14/19,1141206,HAA9,,�g/L,EPA 552.3,=,9.386,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,11/12/19,1160600,HAA5,,�g/L,EPA 552.3,=,7.331,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,11/12/19,1160600,HAA9,,�g/L,EPA 552.3,=,9.447,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,11/12/19,1160600,HAA6Br,,�g/L,EPA 552.3,=,2.579,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,2/11/20,1173306,HAA5,,�g/L,EPA 552.3,=,7.251,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,2/11/20,1173306,HAA9,,�g/L,EPA 552.3,=,9.857,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,2/11/20,1173306,HAA6Br,,�g/L,EPA 552.3,=,3.417,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,5/12/20,1187941,HAA9,,�g/L,EPA 552.3,=,8.501,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,5/12/20,1187941,HAA5,,�g/L,EPA 552.3,=,6.939,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,501,4124 Flakes Mill Road,DS,,,5/12/20,1187941,HAA6Br,,�g/L,EPA 552.3,=,2.449,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,8/14/19,1141207,HAA9,,�g/L,EPA 552.3,=,2.413,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,8/14/19,1141207,HAA6Br,,�g/L,EPA 552.3,=,0.0,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,8/14/19,1141207,HAA5,,�g/L,EPA 552.3,=,2.413,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,11/12/19,1160601,HAA6Br,,�g/L,EPA 552.3,=,2.151,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,11/12/19,1160601,HAA5,,�g/L,EPA 552.3,=,7.744,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,11/12/19,1160601,HAA9,,�g/L,EPA 552.3,=,9.393,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,2/11/20,1173307,HAA6Br,,�g/L,EPA 552.3,=,3.475,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,2/11/20,1173307,HAA9,,�g/L,EPA 552.3,=,10.829,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,2/11/20,1173307,HAA5,,�g/L,EPA 552.3,=,8.373,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,5/12/20,1187942,HAA9,,�g/L,EPA 552.3,=,9.99,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,5/12/20,1187942,HAA6Br,,�g/L,EPA 552.3,=,2.852,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,502,1550 Lilburn-Stone Mountain Rd.,DS,,,5/12/20,1187942,HAA5,,�g/L,EPA 552.3,=,8.1,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,8/14/19,1141208,HAA6Br,,�g/L,EPA 552.3,=,3.77,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,8/14/19,1141208,HAA9,,�g/L,EPA 552.3,=,14.667,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,8/14/19,1141208,HAA5,,�g/L,EPA 552.3,=,12.01,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,11/12/19,1160602,HAA9,,�g/L,EPA 552.3,=,12.223,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,11/12/19,1160602,HAA5,,�g/L,EPA 552.3,=,9.895,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,11/12/19,1160602,HAA6Br,,�g/L,EPA 552.3,=,2.976,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,2/11/20,1173308,HAA9,,�g/L,EPA 552.3,=,13.203,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,2/11/20,1173308,HAA5,,�g/L,EPA 552.3,=,10.553,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,2/11/20,1173308,HAA6Br,,�g/L,EPA 552.3,=,3.281,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,5/12/20,1187943,HAA6Br,,�g/L,EPA 552.3,=,3.151,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,5/12/20,1187943,HAA9,,�g/L,EPA 552.3,=,12.062,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,503,4664 Flat Bridge Road,DS,,,5/12/20,1187943,HAA5,,�g/L,EPA 552.3,=,9.789,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,8/14/19,1141209,HAA9,,�g/L,EPA 552.3,=,11.609,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,8/14/19,1141209,HAA6Br,,�g/L,EPA 552.3,=,2.644,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,8/14/19,1141209,HAA5,,�g/L,EPA 552.3,=,9.484,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,11/12/19,1160603,HAA9,,�g/L,EPA 552.3,=,9.12,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,11/12/19,1160603,HAA6Br,,�g/L,EPA 552.3,=,2.509,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,11/12/19,1160603,HAA5,,�g/L,EPA 552.3,=,7.044,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,2/11/20,1173309,HAA5,,�g/L,EPA 552.3,=,7.341,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,2/11/20,1173309,HAA9,,�g/L,EPA 552.3,=,9.586,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,2/11/20,1173309,HAA6Br,,�g/L,EPA 552.3,=,2.626,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,5/12/20,1187944,HAA9,,�g/L,EPA 552.3,=,8.115,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,5/12/20,1187944,HAA5,,�g/L,EPA 552.3,=,6.605,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,504,6821 Church Street,DS,,,5/12/20,1187944,HAA6Br,,�g/L,EPA 552.3,=,2.253,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,8/14/19,1141210,HAA5,,�g/L,EPA 552.3,=,6.447,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,8/14/19,1141210,HAA6Br,,�g/L,EPA 552.3,=,2.238,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,8/14/19,1141210,HAA9,,�g/L,EPA 552.3,=,8.173,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,11/12/19,1160604,HAA5,,�g/L,EPA 552.3,=,7.061,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,11/12/19,1160604,HAA9,,�g/L,EPA 552.3,=,8.57,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,11/12/19,1160604,HAA6Br,,�g/L,EPA 552.3,=,1.982,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,2/11/20,1173310,HAA9,,�g/L,EPA 552.3,=,7.552,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,2/11/20,1173310,HAA6Br,,�g/L,EPA 552.3,=,2.185,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,2/11/20,1173310,HAA5,,�g/L,EPA 552.3,=,5.869,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,5/12/20,1187945,HAA6Br,,�g/L,EPA 552.3,=,2.403,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,5/12/20,1187945,HAA9,,�g/L,EPA 552.3,=,8.173,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,505,2854 Panola Rd.,DS,,,5/12/20,1187945,HAA5,,�g/L,EPA 552.3,=,6.717,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,8/14/19,1141211,HAA6Br,,�g/L,EPA 552.3,=,2.862,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,8/14/19,1141211,HAA9,,�g/L,EPA 552.3,=,13.417,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,8/14/19,1141211,HAA5,,�g/L,EPA 552.3,=,11.155,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,11/12/19,1160605,HAA9,,�g/L,EPA 552.3,=,12.715,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,11/12/19,1160605,HAA5,,�g/L,EPA 552.3,=,10.336,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,11/12/19,1160605,HAA6Br,,�g/L,EPA 552.3,=,3.243,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,2/11/20,1173311,HAA6Br,,�g/L,EPA 552.3,=,2.808,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,2/11/20,1173311,HAA5,,�g/L,EPA 552.3,=,8.411,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,2/11/20,1173311,HAA9,,�g/L,EPA 552.3,=,10.824,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,5/12/20,1187946,HAA9,,�g/L,EPA 552.3,=,10.473,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,5/12/20,1187946,HAA6Br,,�g/L,EPA 552.3,=,2.856,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,506,4242 Lavista Road,DS,,,5/12/20,1187946,HAA5,,�g/L,EPA 552.3,=,8.609,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,8/14/19,1141212,HAA9,,�g/L,EPA 552.3,=,10.471,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,8/14/19,1141212,HAA6Br,,�g/L,EPA 552.3,=,2.682,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,8/14/19,1141212,HAA5,,�g/L,EPA 552.3,=,8.363,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,11/12/19,1160606,HAA5,,�g/L,EPA 552.3,=,7.873,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,11/12/19,1160606,HAA9,,�g/L,EPA 552.3,=,10.097,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,11/12/19,1160606,HAA6Br,,�g/L,EPA 552.3,=,2.696,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,2/11/20,1173312,HAA6Br,,�g/L,EPA 552.3,=,3.743,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,2/11/20,1173312,HAA5,,�g/L,EPA 552.3,=,12.8,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,2/11/20,1173312,HAA9,,�g/L,EPA 552.3,=,16.063,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,5/12/20,1187935,HAA6Br,,�g/L,EPA 552.3,=,2.707,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,5/12/20,1187935,HAA9,,�g/L,EPA 552.3,=,9.894,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,507,2830 Turner Hill Road,DS,,,5/12/20,1187935,HAA5,,�g/L,EPA 552.3,=,8.121,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,8/14/19,1141213,HAA5,,�g/L,EPA 552.3,=,10.233,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,8/14/19,1141213,HAA6Br,,�g/L,EPA 552.3,=,2.916,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,8/14/19,1141213,HAA9,,�g/L,EPA 552.3,=,12.577,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,11/12/19,1160607,HAA5,,�g/L,EPA 552.3,=,8.127,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,11/12/19,1160607,HAA9,,�g/L,EPA 552.3,=,10.415,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,11/12/19,1160607,HAA6Br,,�g/L,EPA 552.3,=,2.766,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,2/11/20,1173313,HAA6Br,,�g/L,EPA 552.3,=,3.199,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,2/11/20,1173313,HAA5,,�g/L,EPA 552.3,=,7.641,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,2/11/20,1173313,HAA9,,�g/L,EPA 552.3,=,10.434,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,5/12/20,1187936,HAA6Br,,�g/L,EPA 552.3,=,3.72,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,5/12/20,1187936,HAA5,,�g/L,EPA 552.3,=,8.44,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,508,3400 Moreland Avenue,DS,,,5/12/20,1187936,HAA9,,�g/L,EPA 552.3,=,11.249,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,8/14/19,1141214,HAA5,,�g/L,EPA 552.3,=,11.567,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,8/14/19,1141214,HAA9,,�g/L,EPA 552.3,=,14.724,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,8/14/19,1141214,HAA6Br,,�g/L,EPA 552.3,=,3.75,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,11/12/19,1160608,HAA6Br,,�g/L,EPA 552.3,=,1.432,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,11/12/19,1160608,HAA9,,�g/L,EPA 552.3,=,6.272,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,11/12/19,1160608,HAA5,,�g/L,EPA 552.3,=,5.163,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,2/11/20,1173314,HAA6Br,,�g/L,EPA 552.3,=,0.0,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,2/11/20,1173314,HAA5,,�g/L,EPA 552.3,=,0.921,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,2/11/20,1173314,HAA9,,�g/L,EPA 552.3,=,0.921,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,5/12/20,1187937,HAA6Br,,�g/L,EPA 552.3,=,0.0,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,5/12/20,1187937,HAA5,,�g/L,EPA 552.3,=,0.909,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,509,2802 Ward Lake Road,DS,,,5/12/20,1187937,HAA9,,�g/L,EPA 552.3,=,0.909,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,8/14/19,1141215,HAA9,,�g/L,EPA 552.3,=,11.5,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,8/14/19,1141215,HAA5,,�g/L,EPA 552.3,=,8.913,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,8/14/19,1141215,HAA6Br,,�g/L,EPA 552.3,=,3.128,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,11/12/19,1160609,HAA9,,�g/L,EPA 552.3,=,8.6,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,11/12/19,1160609,HAA5,,�g/L,EPA 552.3,=,7.072,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,11/12/19,1160609,HAA6Br,,�g/L,EPA 552.3,=,2.012,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,2/11/20,1173315,HAA6Br,,�g/L,EPA 552.3,=,3.463,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,2/11/20,1173315,HAA5,,�g/L,EPA 552.3,=,8.669,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,2/11/20,1173315,HAA9,,�g/L,EPA 552.3,=,11.64,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,5/12/20,1187938,HAA5,,�g/L,EPA 552.3,=,7.472,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,5/12/20,1187938,HAA6Br,,�g/L,EPA 552.3,=,3.05,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,510,2326 Bouldercrest Road,DS,,,5/12/20,1187938,HAA9,,�g/L,EPA 552.3,=,9.536,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,8/14/19,1141216,HAA5,,�g/L,EPA 552.3,=,6.972,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,8/14/19,1141216,HAA9,,�g/L,EPA 552.3,=,9.181,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,8/14/19,1141216,HAA6Br,,�g/L,EPA 552.3,=,2.737,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,11/12/19,1160610,HAA6Br,,�g/L,EPA 552.3,=,2.037,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,11/12/19,1160610,HAA5,,�g/L,EPA 552.3,=,6.818,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,11/12/19,1160610,HAA9,,�g/L,EPA 552.3,=,8.355,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,2/11/20,1173316,HAA5,,�g/L,EPA 552.3,=,7.151,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,2/11/20,1173316,HAA6Br,,�g/L,EPA 552.3,=,2.67,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,2/11/20,1173316,HAA9,,�g/L,EPA 552.3,=,9.356,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,5/12/20,1187939,HAA9,,�g/L,EPA 552.3,=,9.902,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,5/12/20,1187939,HAA5,,�g/L,EPA 552.3,=,7.435,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,511,1580 Roadhaven Drive,DS,,,5/12/20,1187939,HAA6Br,,�g/L,EPA 552.3,=,3.431,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,8/14/19,1141217,HAA5,,�g/L,EPA 552.3,=,10.246,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,8/14/19,1141217,HAA9,,�g/L,EPA 552.3,=,12.785,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,8/14/19,1141217,HAA6Br,,�g/L,EPA 552.3,=,3.101,SEH1,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,11/12/19,1160611,HAA5,,�g/L,EPA 552.3,=,22.139,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,11/12/19,1160611,HAA6Br,,�g/L,EPA 552.3,=,3.827,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,11/12/19,1160611,HAA9,,�g/L,EPA 552.3,=,25.299,SEH2,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,2/11/20,1173317,HAA5,,�g/L,EPA 552.3,=,6.538,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,2/11/20,1173317,HAA6Br,,�g/L,EPA 552.3,=,2.584,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,2/11/20,1173317,HAA9,,�g/L,EPA 552.3,=,8.675,SEH3,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,5/12/20,1187940,HAA9,,�g/L,EPA 552.3,=,8.663,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,5/12/20,1187940,HAA6Br,,�g/L,EPA 552.3,=,2.478,SEH4,AM,4,GA,,Disinfection Byproducts
+GA0890001,DeKalb County,L,11562,Distribution System,SW,512,1569 Wellborn Road,DS,,,5/12/20,1187940,HAA5,,�g/L,EPA 552.3,=,6.989,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287478,germanium,0.3,�g/L,EPA 200.8,<,,SEA1,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287478,manganese,0.4,�g/L,EPA 200.8,=,11.2,SEA1,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287481,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287481,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287481,1-butanol,2.0,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,tribufos,0.07,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,profenofos,0.3,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287480,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287480,o-toluidine,0.007,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287480,quinoline,0.02,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4287479,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378004,o-toluidine,0.007,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378004,quinoline,0.02,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378004,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,profenofos,0.3,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,tribufos,0.07,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378003,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378005,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378002,germanium,0.3,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378005,1-butanol,2.0,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378005,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4378002,manganese,0.4,�g/L,EPA 200.8,=,6.2,SEA2,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485829,quinoline,0.02,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485830,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485830,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485829,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485827,manganese,0.4,�g/L,EPA 200.8,=,9.04,SEA3,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485829,o-toluidine,0.007,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485827,germanium,0.3,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485830,1-butanol,2.0,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,profenofos,0.3,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,11/13/19,4485828,tribufos,0.07,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569695,germanium,0.3,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569695,manganese,0.4,�g/L,EPA 200.8,=,12.0,SEA4,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569698,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569698,1-butanol,2.0,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,tribufos,0.07,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569697,quinoline,0.02,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569697,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569697,o-toluidine,0.007,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569698,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,2/19/20,4569696,profenofos,0.3,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4286758,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4286758,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/8/19,4286759,total microcystin,0.3,�g/L,EPA 546,<,,SEC1,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/22/19,4304431,total microcystin,0.3,�g/L,EPA 546,<,,SEC2,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/22/19,4304430,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,5/22/19,4304430,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,6/5/19,4314905,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,6/5/19,4314905,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,6/5/19,4314906,total microcystin,0.3,�g/L,EPA 546,<,,SEC3,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,6/19/19,4330245,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,6/19/19,4330245,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,6/19/19,4330246,total microcystin,0.3,�g/L,EPA 546,<,,SEC4,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,7/2/19,4342950,total microcystin,0.3,�g/L,EPA 546,<,,SEC5,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,7/2/19,4342949,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,7/2/19,4342949,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,7/17/19,4356343,total microcystin,0.3,�g/L,EPA 546,<,,SEC6,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,7/17/19,4356342,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,7/17/19,4356342,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4377294,total microcystin,0.3,�g/L,EPA 546,<,,SEC7,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4377293,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/6/19,4377293,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/21/19,4395466,total microcystin,0.3,�g/L,EPA 546,<,,SEC8,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/21/19,4395465,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,1280,Henry Co. Water Plant,SW,301,Finished Water Tap,EP,,,8/21/19,4395465,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,5/8/19,4287723,HAA6Br,,�g/L,EPA 552.3,=,7.686,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,5/8/19,4287723,HAA9,,�g/L,EPA 552.3,=,37.686,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,5/8/19,4287723,HAA5,,�g/L,EPA 552.3,=,30.0,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,8/6/19,4377529,HAA6Br,,�g/L,EPA 552.3,=,7.72,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,8/6/19,4377529,HAA9,,�g/L,EPA 552.3,=,41.32,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,8/6/19,4377529,HAA5,,�g/L,EPA 552.3,=,33.6,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,11/13/19,4485483,HAA9,,�g/L,EPA 552.3,=,34.858,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,11/13/19,4485483,HAA6Br,,�g/L,EPA 552.3,=,6.658,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,11/13/19,4485483,HAA5,,�g/L,EPA 552.3,=,28.2,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,2/19/20,4569417,HAA5,,�g/L,EPA 552.3,=,31.4,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,2/19/20,4569417,HAA9,,�g/L,EPA 552.3,=,37.223,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,501,River Road/E. Highway 81,DS,,,2/19/20,4569417,HAA6Br,,�g/L,EPA 552.3,=,5.823,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,5/8/19,4287727,HAA5,,�g/L,EPA 552.3,=,29.2,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,5/8/19,4287727,HAA6Br,,�g/L,EPA 552.3,=,7.426,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,5/8/19,4287727,HAA9,,�g/L,EPA 552.3,=,36.626,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,8/6/19,4377530,HAA9,,�g/L,EPA 552.3,=,39.965,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,8/6/19,4377530,HAA6Br,,�g/L,EPA 552.3,=,7.665,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,8/6/19,4377530,HAA5,,�g/L,EPA 552.3,=,32.3,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,11/13/19,4485484,HAA5,,�g/L,EPA 552.3,=,23.16,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,11/13/19,4485484,HAA9,,�g/L,EPA 552.3,=,28.666,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,11/13/19,4485484,HAA6Br,,�g/L,EPA 552.3,=,5.506,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,2/19/20,4569418,HAA9,,�g/L,EPA 552.3,=,25.85,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,2/19/20,4569418,HAA6Br,,�g/L,EPA 552.3,=,5.61,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,502,90 E. Highway 138,DS,,,2/19/20,4569418,HAA5,,�g/L,EPA 552.3,=,20.24,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,5/8/19,4287724,HAA6Br,,�g/L,EPA 552.3,=,6.766,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,5/8/19,4287724,HAA9,,�g/L,EPA 552.3,=,34.566,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,5/8/19,4287724,HAA5,,�g/L,EPA 552.3,=,27.8,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,8/6/19,4377531,HAA9,,�g/L,EPA 552.3,=,45.551,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,8/6/19,4377531,HAA6Br,,�g/L,EPA 552.3,=,7.551,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,8/6/19,4377531,HAA5,,�g/L,EPA 552.3,=,38.0,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,11/13/19,4485485,HAA6Br,,�g/L,EPA 552.3,=,7.587,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,11/13/19,4485485,HAA5,,�g/L,EPA 552.3,=,30.7,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,11/13/19,4485485,HAA9,,�g/L,EPA 552.3,=,38.287,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,2/19/20,4569419,HAA9,,�g/L,EPA 552.3,=,29.183,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,2/19/20,4569419,HAA6Br,,�g/L,EPA 552.3,=,5.883,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,503,2278 E. Highway 81,DS,,,2/19/20,4569419,HAA5,,�g/L,EPA 552.3,=,23.3,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,5/8/19,4287730,HAA9,,�g/L,EPA 552.3,=,33.16,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,5/8/19,4287730,HAA6Br,,�g/L,EPA 552.3,=,5.46,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,5/8/19,4287730,HAA5,,�g/L,EPA 552.3,=,27.7,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,8/6/19,4377532,HAA9,,�g/L,EPA 552.3,=,35.598,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,8/6/19,4377532,HAA5,,�g/L,EPA 552.3,=,28.9,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,8/6/19,4377532,HAA6Br,,�g/L,EPA 552.3,=,6.698,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,11/13/19,4485486,HAA6Br,,�g/L,EPA 552.3,=,4.19,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,11/13/19,4485486,HAA5,,�g/L,EPA 552.3,=,21.86,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,11/13/19,4485486,HAA9,,�g/L,EPA 552.3,=,26.05,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,2/19/20,4569420,HAA9,,�g/L,EPA 552.3,=,16.668,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,2/19/20,4569420,HAA5,,�g/L,EPA 552.3,=,12.48,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,504,100 W. Ridge Ind. Blvd.,DS,,,2/19/20,4569420,HAA6Br,,�g/L,EPA 552.3,=,4.188,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,5/8/19,4287725,HAA9,,�g/L,EPA 552.3,=,28.329,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,5/8/19,4287725,HAA5,,�g/L,EPA 552.3,=,21.88,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,5/8/19,4287725,HAA6Br,,�g/L,EPA 552.3,=,6.449,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,8/6/19,4377533,HAA9,,�g/L,EPA 552.3,=,30.685,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,8/6/19,4377533,HAA5,,�g/L,EPA 552.3,=,24.4,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,8/6/19,4377533,HAA6Br,,�g/L,EPA 552.3,=,6.285,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,11/13/19,4485487,HAA9,,�g/L,EPA 552.3,=,22.62,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,11/13/19,4485487,HAA5,,�g/L,EPA 552.3,=,18.27,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,11/13/19,4485487,HAA6Br,,�g/L,EPA 552.3,=,4.35,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,2/19/20,4569421,HAA5,,�g/L,EPA 552.3,=,19.34,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,2/19/20,4569421,HAA9,,�g/L,EPA 552.3,=,24.928,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,505,1800 N. Highway 155,DS,,,2/19/20,4569421,HAA6Br,,�g/L,EPA 552.3,=,5.588,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,5/8/19,4287729,HAA9,,�g/L,EPA 552.3,=,35.698,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,5/8/19,4287729,HAA6Br,,�g/L,EPA 552.3,=,7.198,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,5/8/19,4287729,HAA5,,�g/L,EPA 552.3,=,28.5,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,8/6/19,4377534,HAA6Br,,�g/L,EPA 552.3,=,7.423,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,8/6/19,4377534,HAA9,,�g/L,EPA 552.3,=,40.023,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,8/6/19,4377534,HAA5,,�g/L,EPA 552.3,=,32.6,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,11/13/19,4485488,HAA6Br,,�g/L,EPA 552.3,=,5.547,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,11/13/19,4485488,HAA5,,�g/L,EPA 552.3,=,21.9,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,11/13/19,4485488,HAA9,,�g/L,EPA 552.3,=,27.447,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,2/19/20,4569422,HAA5,,�g/L,EPA 552.3,=,35.0,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,2/19/20,4569422,HAA9,,�g/L,EPA 552.3,=,41.753,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,506,680 Fairview Road,DS,,,2/19/20,4569422,HAA6Br,,�g/L,EPA 552.3,=,6.753,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,5/8/19,4287726,HAA5,,�g/L,EPA 552.3,=,23.31,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,5/8/19,4287726,HAA9,,�g/L,EPA 552.3,=,30.05,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,5/8/19,4287726,HAA6Br,,�g/L,EPA 552.3,=,6.74,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,8/6/19,4377535,HAA5,,�g/L,EPA 552.3,=,25.9,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,8/6/19,4377535,HAA6Br,,�g/L,EPA 552.3,=,6.586,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,8/6/19,4377535,HAA9,,�g/L,EPA 552.3,=,32.486,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,11/13/19,4485489,HAA9,,�g/L,EPA 552.3,=,24.192,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,11/13/19,4485489,HAA5,,�g/L,EPA 552.3,=,19.41,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,11/13/19,4485489,HAA6Br,,�g/L,EPA 552.3,=,4.782,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,2/19/20,4569423,HAA6Br,,�g/L,EPA 552.3,=,5.518,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,2/19/20,4569423,HAA5,,�g/L,EPA 552.3,=,25.9,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,507,1805 Kelleytown Road,DS,,,2/19/20,4569423,HAA9,,�g/L,EPA 552.3,=,31.418,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,5/8/19,4287728,HAA5,,�g/L,EPA 552.3,=,35.4,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,5/8/19,4287728,HAA6Br,,�g/L,EPA 552.3,=,7.8,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,5/8/19,4287728,HAA9,,�g/L,EPA 552.3,=,43.2,SEH1,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,8/6/19,4377536,HAA5,,�g/L,EPA 552.3,=,39.89,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,8/6/19,4377536,HAA9,,�g/L,EPA 552.3,=,47.768,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,8/6/19,4377536,HAA6Br,,�g/L,EPA 552.3,=,7.878,SEH2,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,11/13/19,4485490,HAA9,,�g/L,EPA 552.3,=,40.093,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,11/13/19,4485490,HAA5,,�g/L,EPA 552.3,=,31.6,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,11/13/19,4485490,HAA6Br,,�g/L,EPA 552.3,=,8.493,SEH3,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,2/19/20,4569424,HAA6Br,,�g/L,EPA 552.3,=,6.147,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,2/19/20,4569424,HAA5,,�g/L,EPA 552.3,=,33.2,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12575,Distribution System,SW,508,E. Mays Road/Harper Drive,DS,,,2/19/20,4569424,HAA9,,�g/L,EPA 552.3,=,39.347,SEH4,AM,4,GA,,Disinfection Byproducts
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287470,manganese,0.4,�g/L,EPA 200.8,=,36.2,SEA1,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287470,germanium,0.3,�g/L,EPA 200.8,<,,SEA1,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287473,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287473,1-butanol,2.0,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287473,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287472,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287472,quinoline,0.02,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287472,o-toluidine,0.007,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,profenofos,0.3,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,tribufos,0.07,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,=,0.015,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4287471,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377450,manganese,0.4,�g/L,EPA 200.8,=,13.1,SEA2,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377450,germanium,0.3,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,profenofos,0.3,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,tribufos,0.07,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377451,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377453,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377453,1-butanol,2.0,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377453,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377452,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377452,o-toluidine,0.007,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377452,quinoline,0.02,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485504,germanium,0.3,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485507,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485504,manganese,0.4,�g/L,EPA 200.8,=,34.0,SEA3,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485507,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,tribufos,0.07,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485507,1-butanol,2.0,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,profenofos,0.3,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485506,o-toluidine,0.007,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485506,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485506,quinoline,0.02,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,11/13/19,4485505,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569676,manganese,0.4,�g/L,EPA 200.8,=,73.4,SEA4,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569678,quinoline,0.02,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569678,o-toluidine,0.007,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569678,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569676,germanium,0.3,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569679,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,tribufos,0.07,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569679,1-butanol,2.0,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569679,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,profenofos,0.3,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,2/19/20,4569677,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4286791,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4286791,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/8/19,4286792,total microcystin,0.3,�g/L,EPA 546,<,,SEC1,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/22/19,4304462,total microcystin,0.3,�g/L,EPA 546,<,,SEC2,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/22/19,4304461,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,5/22/19,4304461,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,6/5/19,4314869,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,6/5/19,4314870,total microcystin,0.3,�g/L,EPA 546,<,,SEC3,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,6/5/19,4314869,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,6/19/19,4330191,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,6/19/19,4330191,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,6/19/19,4330192,total microcystin,0.3,�g/L,EPA 546,<,,SEC4,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,7/2/19,4342912,total microcystin,0.3,�g/L,EPA 546,<,,SEC5,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,7/2/19,4342911,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,7/2/19,4342911,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,7/17/19,4356346,total microcystin,0.3,�g/L,EPA 546,<,,SEC6,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,7/17/19,4356345,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,7/17/19,4356345,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377267,total microcystin,0.3,�g/L,EPA 546,<,,SEC7,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377266,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/6/19,4377266,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/28/19,4403663,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/28/19,4403663,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,12576,DeKalb County,SW,303,DeKalb County Connector,EP,,,8/28/19,4403664,total microcystin,0.3,�g/L,EPA 546,<,,SEC8,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287240,germanium,0.3,�g/L,EPA 200.8,<,,SEA1,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287240,manganese,0.4,�g/L,EPA 200.8,=,2.02,SEA1,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,profenofos,0.3,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,tribufos,0.07,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287241,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA1,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287242,o-toluidine,0.007,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287242,quinoline,0.02,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287242,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA1,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287243,1-butanol,2.0,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287243,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4287243,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA1,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377929,germanium,0.3,�g/L,EPA 200.8,<,,SEA2,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377929,manganese,0.4,�g/L,EPA 200.8,=,6.76,SEA2,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377931,quinoline,0.02,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377931,o-toluidine,0.007,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377931,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA2,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,tribufos,0.07,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,profenofos,0.3,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,ethoprop,0.03,�g/L,EPA 525.3,=,0.041,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377930,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA2,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377932,1-butanol,2.0,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377932,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377932,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA2,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485561,manganese,0.4,�g/L,EPA 200.8,=,23.6,SEA3,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485561,germanium,0.3,�g/L,EPA 200.8,<,,SEA3,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485563,quinoline,0.02,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485563,o-toluidine,0.007,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485563,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA3,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,profenofos,0.3,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485564,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485564,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485564,1-butanol,2.0,�g/L,EPA 541,<,,SEA3,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,tribufos,0.07,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,11/13/19,4485562,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA3,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569881,butylated hydroxyanisole,0.03,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569879,germanium,0.3,�g/L,EPA 200.8,<,,SEA4,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569881,o-toluidine,0.007,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569881,quinoline,0.02,�g/L,EPA 530,<,,SEA4,AM,4,GA,,Semivolatile organic compound
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569879,manganese,0.4,�g/L,EPA 200.8,=,6.98,SEA4,AM,4,GA,,Metal
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569882,2-propen-1-ol,0.5,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569882,2-methoxyethanol,0.4,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569882,1-butanol,2.0,�g/L,EPA 541,<,,SEA4,AM,4,GA,,Alcohol
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,chlorpyrifos,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,dimethipin,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,tebuconazole,0.2,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,profenofos,0.3,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,oxyfluorfen,0.05,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,alpha-hexachlorocyclohexane,0.01,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,total permethrin,0.04,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,ethoprop,0.03,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,2/19/20,4569880,tribufos,0.07,�g/L,EPA 525.3,<,,SEA4,AM,4,GA,,Pesticide
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4286692,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4286692,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC1,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/8/19,4286693,total microcystin,0.3,�g/L,EPA 546,<,,SEC1,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/22/19,4304413,total microcystin,0.3,�g/L,EPA 546,<,,SEC2,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/22/19,4304412,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,5/22/19,4304412,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC2,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,6/5/19,4314860,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,6/5/19,4314860,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC3,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,6/5/19,4314861,total microcystin,0.3,�g/L,EPA 546,<,,SEC3,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,6/19/19,4330175,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,6/19/19,4330176,total microcystin,0.3,�g/L,EPA 546,<,,SEC4,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,6/19/19,4330175,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC4,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,7/2/19,4343075,total microcystin,0.3,�g/L,EPA 546,<,,SEC5,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,7/2/19,4343074,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,7/2/19,4343074,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC5,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,7/17/19,4356383,total microcystin,0.3,�g/L,EPA 546,<,,SEC6,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,7/17/19,4356382,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,7/17/19,4356382,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC6,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377250,total microcystin,0.3,�g/L,EPA 546,<,,SEC7,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377249,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/6/19,4377249,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC7,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/21/19,4395463,total microcystin,0.3,�g/L,EPA 546,<,,SEC8,AM,4,GA,,
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/21/19,4395462,cylindrospermopsin,0.09,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
+GA1510001,Henry County Water & Sewer Authority,L,18268,Tussahaw Water Plant,SW,302,Entry to Dist. System,EP,,,8/21/19,4395462,anatoxin-a,0.03,�g/L,EPA 545,<,,SEC8,AM,4,GA,,Cyanotoxin
