@@ -29,7 +29,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About
 
 This README is for the analysis and code for the UCMR4 Dataset corresponding to research question 1 of the S. Dekalb Project:
 
