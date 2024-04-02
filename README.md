@@ -47,7 +47,8 @@ Specifically, our research questions are:
 
 ### Built With
 
-* To be updated with relevant software used during analysis. 
+- Python (Visualization for dataset 1)
+- R, Shiny (Visualizations for datasets 2 and 3)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,11 +91,11 @@ This is an example of how to list things you need to use the software and how to
 ## Roadmap
 
 For each research question, to create a cohesive data story, we will:
-- [ ] Identify and analyze the relevant dataset
-    - [ ] Create a subset of data to contain only Georgia or Dekalb
-- [ ] Create a data visualization (interactive or otherwise)
-    - [ ] Contaminant Type Selection
-    - [ ] Time series or county comparison
+- [x] Identify and analyze the relevant dataset
+    - [x] Create a subset of data to contain only Georgia or Dekalb
+- [x] Create a data visualization (interactive or otherwise)
+    - [x] Contaminant Type Selection
+    - [x] Time series or county comparison
 - [ ] Relay health impacts
     - [ ] Include a summary of the health impacts of high exposure to the contaminant type
     - [ ] Outline actions community members can take
