@@ -34,7 +34,12 @@
 This README is for the analysis and code for the UCMR4 Dataset corresponding to research question 1 of the S. Dekalb Project:
 
 
-1. How do the EPA’s identified unregulated contaminants in drinking water on S. Dekalb’s water sources between 2018 and 2020, considering variations in contamination types and their distribution in South Dekalb compare to other counties near Dekalb and what are some possible health outcomes related to high exposure of these contaminants? 
+1. How do the EPA’s identified unregulated contaminants in drinking water on S. Dekalb’s water sources between 2018 and 2020, considering variations in contamination types and their distribution in South Dekalb compare to other counties near Dekalb and what are some possible health outcomes related to high exposure of these contaminants?
+
+This dataset highlights contaminants suspected to
+be present in drinking water, but do not have
+regulatory standards. The data collected 30
+chemicals identified by the EPA in the US.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
