@@ -66,6 +66,7 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   install shiny
   ```
+* Project reliant on more recent version of R
 
 ### Installation
 
