@@ -34,7 +34,7 @@
 This README is for the analysis and code for the Dekalb Water Quality Dataset sourced from Dekalb Watershed Management corresponding to research question 2 of the S. Dekalb Project:
 
 
-2. 2. How have the levels of key water pollutant parameters (Fluoride, Nitrate, Chlorine, Trihalomethanes, Haloacetic Acids, Copper, Lead, Turbidity, Total Organic Carbon, and Total Coliform) in Dekalb County changed over recent years (2018-2022)?
+2. How have the levels of key water pollutant parameters (Fluoride, Nitrate, Chlorine, Trihalomethanes, Haloacetic Acids, Copper, Lead, Turbidity, Total Organic Carbon, and Total Coliform) in Dekalb County changed over recent years (2018-2022)?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
