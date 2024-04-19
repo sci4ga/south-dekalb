@@ -30,12 +30,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-This README is for the analysis and code for the UCMR4 Dataset corresponding to research question 1 of the S. Dekalb Project:
+This README is for the analysis and code for the DeKalbAQI Dataset corresponding to research question 3 of the S. Dekalb Project:
 
 
-3. How have levels of key air pollutants, such as PM2.5 and Ozone changed over the past 5 years?
+3. How have levels of key air pollutants, such as PM2.5 and Ozone changed over the past 7 years?
 
 This dataset provides access to air quality information gathered from outdoor monitors throughout the United States by the EPA, referred to as AirData.
+
+"Q3Clean.R" - This R script is designed to analyze Air Quality Index (AQI) data for several counties in Georgia from 2016 to 2023. It focuses on DeKalb, Henry, and Clayton counties, extracting data from annual CSV files, analyzing trends in PM2.5 and ozone levels, and visualizing these trends using ggplot2 and plotly for interactive plots.
+
+"Q3AirQualityDekalb.R" - This R script is designed to visualize Air Quality Index (AQI) data, specifically focusing on PM2.5 and ozone levels across several counties in Georgia, namely DeKalb, Henry, and Clayton. The script uses the `ggplot2` and `plotly` libraries to create both static and interactive plots.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
@@ -51,17 +57,23 @@ This dataset provides access to air quality information gathered from outdoor mo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Will include instructions on setting up the project locally.
-To get a local copy up and running follow these simple example steps.
+Download files in "dekalbAQI_RAW" file from data repository in order to run the code in "Q3Clean.R".
+Download "dekalbAQI.csv" from data repository in order to run the code in "Q3AirQualityDekalb.R"
 
 ### Prerequisites
 
-* Project reliant on more recent version of R
+* R programming language
+* R libraries: ggplot2, plotly
+* Input data files: AQI data for DeKalb, Henry, and Clayton counties
+
 
 ### Installation
 
-1. 
-   ```
+Before running the script, you need to install the required R packages. You can do this using the following commands in R:
+
+```R
+install.packages("ggplot2")
+install.packages("plotly")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
