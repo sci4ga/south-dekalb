@@ -82,9 +82,8 @@ install.packages("plotly")
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-- Screenshot of interactive visualization
-<img width="1087" alt="Screenshot 2024-04-19 at 4 14 52 PM" src="https://github.com/sci4ga/south-dekalb/assets/156953490/3e96e984-5e7f-4c98-81df-12c3068da605">
-Link==> https://camillayoon.shinyapps.io/WaterQualityDeKalb/ 
+- Screenshot of  visualization
+![allRatioPM25Plot copy](https://github.com/sci4ga/south-dekalb/assets/156953490/5fd650b9-6109-40cd-a422-70395a234419)
 
 - Screenshot or link to data story
 
