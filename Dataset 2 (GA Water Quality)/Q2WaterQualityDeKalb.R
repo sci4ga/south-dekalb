@@ -13,24 +13,25 @@ library(plotly)
 
 # Descriptions for each parameter
 parameterDescriptions <- list(
-  Fluroide = "Fluoride is added to water to prevent tooth decay. The acceptable level is up to 4.0 mg/L (milligrams per liter) as the maximum contaminant level (MCL). This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  Nitrate = "Nitrate can enter water from fertilizer runoff, septic systems, and erosion of natural deposits. The acceptable level is up to 10 mg/L as nitrate-N for protecting infants from methemoglobinemia. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  `Chlorine,free` = "Free chlorine is used as a disinfectant in water systems. The acceptable level is generally up to 4.0 mg/L as Cl2. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  `Chlorine,total` = "Total chlorine measures both free and combined forms of chlorine. The acceptable level is also up to 4.0 mg/L as Cl2. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  `Total Trihalomethanes (THMs)` = "THMs are by-products of chlorination. The acceptable level is up to 80 µg/L (micrograms per liter). This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  `Total Haloacetic Acids (HAAs)` = "HAAs are also by-products of disinfection. The acceptable level is up to 60 µg/L. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  Cu = "Copper can leach from pipes and plumbing fixtures. The action level at which treatment is required is 1.3 mg/L. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  Pb = "Lead can also leach from pipes and solder. The action level for lead is 0.015 mg/L. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  Turbidity = "Turbidity measures the clarity of water. The acceptable level depends on the type of water system but is typically less than 1 NTU (Nephelometric Turbidity Units) for treated water. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  `Total Organic Carbon` = "TOC is a measure of organic molecules in water. There is no specific MCL, but systems must treat water to reduce TOC levels by a certain percentage to avoid disinfection by-product formation. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States.",
-  `Total Coliform` = "Total coliform bacteria are indicators of microbial contamination. The acceptable level is that no more than 5% of samples per month are positive for systems collecting at least 40 samples per month. This is according to common regulatory standards, such as those set by the Environmental Protection Agency (EPA) in the United States."
-  
+  Fluoride = "Fluoride is added to water to prevent tooth decay, with an acceptable level up to 4.0 ppm (parts per million). Excessive fluoride can lead to dental and skeletal fluorosis, according to standards set by the Environmental Protection Agency (EPA) in the United States.",
+  Nitrate = "Nitrate, from sources like fertilizer runoff, septic systems, and natural deposits, has an EPA-regulated acceptable level of up to 10 ppm. High levels can cause methemoglobinemia, particularly in infants, leading to decreased oxygen delivery to vital organs.",
+  `Chlorine,free` = "Free chlorine is used as a disinfectant in water systems, with an acceptable level up to 4.0 ppm Cl. Excessive chlorine can cause eye/nose irritation and stomach discomfort. These standards are enforced by the EPA.",
+  `Chlorine,total` = "Total chlorine, including both free and combined forms, has an acceptable level up to 4.0 ppm Cl. Overexposure to chlorine can lead to respiratory issues and skin irritation. The EPA sets this standard to balance disinfection with safety.",
+  `Total Trihalomethanes (THMs)` = "THMs are by-products of chlorination with an acceptable level up to 80 ppb (parts per billion). Long-term exposure to high levels of THMs may increase the risk of cancer and reproductive issues, according to the EPA.",
+  `Total Haloacetic Acids (HAAs)` = "HAAs, disinfection by-products like THMs, have an EPA-regulated acceptable level up to 60 ppm. Elevated levels may be associated with an increased risk of cancer and potentially other health issues.",
+  Cu = "Copper, leaching from pipes and plumbing, has an EPA action level of 1.3 ppm. High copper levels can cause gastrointestinal distress and, with long-term exposure, liver or kidney damage.",
+  Pb = "Lead, potentially leaching from pipes and solder, has an EPA action level of 15 ppb. Lead exposure is particularly hazardous, leading to neurological damage, developmental delays in children, and cardiovascular issues in adults.",
+  Turbidity = "Turbidity measures water clarity with an acceptable standard of less than 1 NTU (Nephelometric Turbidity Units). High turbidity can shield harmful pathogens, increasing the risk of gastrointestinal diseases. The EPA regulates this to ensure water clarity and safety.",
+  `Total Organic Carbon` = "TOC indicates organic molecules in water, without a specific MCL but requiring EPA-regulated reduction levels. High TOC levels can enhance bacterial growth and the formation of disinfection by-products, which may increase cancer risk.",
+  `Total Coliform` = "Total coliform bacteria, indicating microbial contamination, must not exceed a positive result in more than 5% of samples per month for systems collecting at least 40 samples. Presence of coliform is a potential indicator of pathogens that can cause waterborne diseases. The EPA standard is reported as positive/absent (P/A) per sample."
 )
+
+
 
 # Define UI
 ui <- fluidPage(
   theme = shinytheme("cosmo"), # Applying a cosmo theme for a modern look
-  titlePanel("Water Quality Parameters in DeKalb County, GA Over Years"),
+  titlePanel("Water Quality Parameters in DeKalb County, GA Over Recent Years"),
   sidebarLayout(
     sidebarPanel(
       pickerInput("parameterInput", "Choose a parameter:",
