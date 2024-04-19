@@ -38,6 +38,9 @@ This README is for the analysis and code for the Dekalb Water Quality Dataset so
 
 This dataset compiles aggregated data on various water quality parameters, including Fluoride, Nitrate, Free Chlorine, Total Chlorine, Total Trihalomethanes, Total Haloacetic Acids, Turbidity, Total Organic Carbon, and Total Coliform, across multiple counties spanning from 2018 through 2022 in Dekalb.
 
+This Shiny application provides an interactive visualization of water quality parameters in DeKalb County, Georgia. The data used in this app is based on various water quality tests performed over the years and includes a variety of parameters like Fluoride, Nitrate, Chlorine, THMs, and more.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 
@@ -48,6 +51,11 @@ This dataset compiles aggregated data on various water quality parameters, inclu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Features
+
+- **Interactive Plot**: View changes in water quality parameters over time.
+- **Parameter Descriptions**: Detailed information about each water quality parameter, including health implications and EPA standards.
+- **Searchable Parameter Selection**: Easy-to-use dropdown to select parameters, enhanced with a search feature.
 
 
 <!-- GETTING STARTED -->
@@ -56,14 +64,22 @@ This dataset compiles aggregated data on various water quality parameters, inclu
 Will include instructions on setting up the project locally.
 To get a local copy up and running follow these simple example steps.
 
+
 ### Prerequisites
 
-* Project reliant on more recent version of R
+To run this Shiny app on your local machine, you need to have R installed, along with the Shiny package and other required libraries. 
 
 ### Installation
+You can install the required libraries using the following commands in R:
 
-1. 
-   ```
+```R
+install.packages("shiny")
+install.packages("shinythemes")
+install.packages("shinyWidgets")
+install.packages("ggplot2")
+install.packages("plotly")
+```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,8 +87,18 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+Clone this repository or download the source code to your local machine.
 
-- Screenshot of interactive map
+Open the R script in RStudio or any other R environment.
+
+Set the working directory to the folder containing the script.
+
+The data for this application is stored in "DekalbWaterQuality.csv" which can be found in the data repository. 
+This file should be placed in the same directory as the application script.
+
+- Screenshot of interactive visualization
+<img width="1087" alt="Screenshot 2024-04-19 at 4 14 52 PM" src="https://github.com/sci4ga/south-dekalb/assets/156953490/70965cb4-bcc8-408b-a774-7c7babf49459">
+
 - Screenshot or link to data story
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
