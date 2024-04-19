@@ -74,7 +74,7 @@ Before running the script, you need to install the required R packages. You can 
 ```R
 install.packages("ggplot2")
 install.packages("plotly")
-
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -83,6 +83,8 @@ install.packages("plotly")
 ## Usage
 
 - Screenshot of interactive map
+<img width="1087" alt="Screenshot 2024-04-19 at 4 14 52 PM" src="https://github.com/sci4ga/south-dekalb/assets/156953490/3e96e984-5e7f-4c98-81df-12c3068da605">
+
 - Screenshot or link to data story
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
