@@ -65,8 +65,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. 
-   ```
+```R
+import pandas as pd
+import seaborn as sns
+import numpy as np
+import matplotlib.pyplot as plt
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
