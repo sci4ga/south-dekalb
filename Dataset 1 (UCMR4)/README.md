@@ -61,7 +61,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* Project reliant on more recent version of R
+* Project reliant on more recent version of Python
 
 ### Installation
 
