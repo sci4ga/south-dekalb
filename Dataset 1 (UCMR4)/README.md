@@ -62,6 +62,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 * Project reliant on more recent version of Python
+* Python libraries: pandas, seaborn, numpy, matplotlib
+* Input data files: UCMR4 data 
 
 ### Installation
 
