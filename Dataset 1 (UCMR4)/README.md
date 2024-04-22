@@ -101,9 +101,9 @@ For each research question, to create a cohesive data story, we will:
 - [x] Create a data visualization (interactive or otherwise)
     - [x] Contaminant Type Selection
     - [x] Time series or county comparison
-- [ ] Relay health impacts
-    - [ ] Include a summary of the health impacts of high exposure to the contaminant type
-    - [ ] Outline actions community members can take
+- [x] Relay health impacts
+    - [x] Include a summary of the health impacts of high exposure to the contaminant type
+    - [x] Outline actions community members can take
      
 Project Plan: https://docs.google.com/document/d/1Fk13lB-NPpDvnWYr1P8-melwuqHeQFxDNx5mgyd4cW8/edit?usp=sharing
 
@@ -157,10 +157,7 @@ Project Link: [https://github.com/sci4ga/south-dekalb](https://github.com/sci4ga
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* []()
-* []()
-* []()
+Thank you for Dr. Amy Sharma and Science for Georgia for guiding this project and giving us the resources to make this possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
