@@ -49,6 +49,7 @@ Specifically, our research questions are:
 
 - Python (Visualization for dataset 1)
 - R, Shiny (Visualizations for datasets 2 and 3)
+- Shorthand (Datastory Website/App) https://shorthand.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,17 +61,19 @@ Specifically, our research questions are:
 Will include instructions on setting up the project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites/Installation
 
-* Shiny for R
-  ```sh
-  install shiny
-  ```
-* Project reliant on more recent version of R
+* Prerequisites for each research question/dataset with walk through of analysis can be found in the corresponding readme files:
+* Dataset/RQ 1: [README.md](https://github.com/sci4ga/south-dekalb/blob/main/Dataset%201%20(UCMR4)/README.md)
+* Dataset/RQ 2:  [README.md](https://github.com/sci4ga/south-dekalb/blob/main/Dataset%202%20(GA%20Water%20Quality)/README.md)
+* Dastaset/RQ 3:  [README.md](https://github.com/sci4ga/south-dekalb/blob/main/Dataset%203%20(Dekalb%20Air%20Quality)/README.md)
 
-### Installation
+### How to create datastory app
 
-1. 
+1. Go to  https://shorthand.com/
+2. Create new story
+3. Insert visualizations and text
+4. Publish
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,8 +83,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-- Screenshot of interactive map
-- Screenshot or link to data story
+- Link to datastory: https://qtm-capstone-s-dekalb.shorthandstories.com/the-south-dekalb-data-story/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,9 +98,9 @@ For each research question, to create a cohesive data story, we will:
 - [x] Create a data visualization (interactive or otherwise)
     - [x] Contaminant Type Selection
     - [x] Time series or county comparison
-- [ ] Relay health impacts
-    - [ ] Include a summary of the health impacts of high exposure to the contaminant type
-    - [ ] Outline actions community members can take
+- [x] Relay health impacts
+    - [x] Include a summary of the health impacts of high exposure to the contaminant type
+    - [x] Outline actions community members can take
      
 Project Plan: https://docs.google.com/document/d/1Fk13lB-NPpDvnWYr1P8-melwuqHeQFxDNx5mgyd4cW8/edit?usp=sharing
 
@@ -112,8 +114,6 @@ See the [open issues](https://github.com/sci4ga/south-dekalb/issues) for a full 
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
-*What we COULD say:*
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
