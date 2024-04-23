@@ -86,7 +86,7 @@ import matplotlib.pyplot as plt
 
 <img width="608" alt="image" src="https://github.com/sci4ga/south-dekalb/assets/80538056/a53854ea-4753-4b1c-861d-5af5ebcdac6c">
 
-- Screenshot or link to data story
+- Link to data story: https://qtm-capstone-s-dekalb.shorthandstories.com/the-south-dekalb-data-story/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
