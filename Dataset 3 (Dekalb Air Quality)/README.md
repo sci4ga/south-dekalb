@@ -85,7 +85,7 @@ install.packages("plotly")
 - Screenshot of  visualization
 ![allRatioPM25Plot copy](https://github.com/sci4ga/south-dekalb/assets/156953490/5fd650b9-6109-40cd-a422-70395a234419)
 
-- Screenshot or link to data story
+- Link to data story: https://qtm-capstone-s-dekalb.shorthandstories.com/the-south-dekalb-data-story/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,9 +100,9 @@ For each research question, to create a cohesive data story, we will:
 - [x] Create a data visualization (interactive or otherwise)
     - [x] Contaminant Type Selection
     - [x] Time series or county comparison
-- [ ] Relay health impacts
-    - [ ] Include a summary of the health impacts of high exposure to the contaminant type
-    - [ ] Outline actions community members can take
+- [x] Relay health impacts
+    - [x] Include a summary of the health impacts of high exposure to the contaminant type
+    - [x] Outline actions community members can take
      
 Project Plan: https://docs.google.com/document/d/1Fk13lB-NPpDvnWYr1P8-melwuqHeQFxDNx5mgyd4cW8/edit?usp=sharing
 
@@ -117,7 +117,6 @@ See the [open issues](https://github.com/sci4ga/south-dekalb/issues) for a full 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-*What we COULD say:*
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
