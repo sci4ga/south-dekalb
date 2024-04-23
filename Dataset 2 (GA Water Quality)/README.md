@@ -99,7 +99,7 @@ This file should be placed in the same directory as the application script.
 - Screenshot of interactive visualization
 <img width="1087" alt="Screenshot 2024-04-19 at 4 14 52 PM" src="https://github.com/sci4ga/south-dekalb/assets/156953490/70965cb4-bcc8-408b-a774-7c7babf49459">
 
-- Screenshot or link to data story
+- link to data story: https://qtm-capstone-s-dekalb.shorthandstories.com/the-south-dekalb-data-story/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,9 +114,9 @@ For each research question, to create a cohesive data story, we will:
 - [x] Create a data visualization (interactive or otherwise)
     - [x] Contaminant Type Selection
     - [x] Time series or county comparison
-- [ ] Relay health impacts
-    - [ ] Include a summary of the health impacts of high exposure to the contaminant type
-    - [ ] Outline actions community members can take
+- [x] Relay health impacts
+    - [x] Include a summary of the health impacts of high exposure to the contaminant type
+    - [x] Outline actions community members can take
      
 Project Plan: https://docs.google.com/document/d/1Fk13lB-NPpDvnWYr1P8-melwuqHeQFxDNx5mgyd4cW8/edit?usp=sharing
 
@@ -130,8 +130,6 @@ See the [open issues](https://github.com/sci4ga/south-dekalb/issues) for a full 
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
-*What we COULD say:*
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
