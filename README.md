@@ -134,7 +134,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the _____ License. See  for more information.
+Distributed under the MIT License. See  for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,8 +154,6 @@ Project Link: [https://github.com/sci4ga/south-dekalb](https://github.com/sci4ga
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Thank you for Dr. Amy Sharma and Science for Georgia for guiding this project and giving us the resources to make this possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
